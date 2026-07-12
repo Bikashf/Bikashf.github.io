@@ -1,6 +1,6 @@
 # Hi, I'm Bikash Kumar Bhoi 👋
 
-## Full Stack Developer | Python Developer | MCA Graduate
+## Python Full Stack Developer | MCA Graduate
 
 I'm a Full Stack Developer at **OpenTechz Solutions**, where I build modern business web applications using Python and JavaScript technologies. I work across the full development lifecycle—from database design and backend APIs to responsive frontend interfaces.
 
