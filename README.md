@@ -1,6 +1,6 @@
 # Hi, I'm Bikash Kumar Bhoi 👋
 
-**Backend • Frontend • Full Stack Developer**
+**Full Stack Developer**
 
 MCA graduate with hands-on experience building REST APIs, authentication, and full-stack web applications using Python, React.js, FastAPI, Django, PostgreSQL, and MongoDB.
 
