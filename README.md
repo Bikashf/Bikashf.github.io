@@ -1,105 +1,208 @@
 # Hi, I'm Bikash Kumar Bhoi 👋
 
-**Full Stack Developer**
+## Full Stack Developer | Python Developer | MCA Graduate
 
-MCA graduate with hands-on experience building REST APIs, authentication, and full-stack web applications using Python, React.js, FastAPI, Django, PostgreSQL, and MongoDB.
+I'm a Full Stack Developer at **OpenTechz Solutions**, where I build modern business web applications using Python and JavaScript technologies. I work across the full development lifecycle—from database design and backend APIs to responsive frontend interfaces.
+
+I transitioned into software development after gaining professional experience in MIS and Business Development, bringing strong analytical thinking and problem-solving skills into software engineering.
 
 ---
 
-### 🧱 Tech Stack
+## 👨‍💻 About Me
 
-**Programming Languages**
+- 💼 Full Stack Developer at OpenTechz Solutions
+- 🎓 Master of Computer Applications (MCA)
+- 📍 Bhubaneswar, Odisha, India
+- 🌱 Passionate about Backend Development, Full Stack Web Development, and Clean Software Architecture
+- 💡 Interested in Python, FastAPI, Django, React.js, Next.js, PostgreSQL, MongoDB, and scalable web applications
+- 🚀 Always learning new technologies and improving software development practices
+
+---
+
+# 🛠 Tech Stack
+
+## Programming Languages
+
 - Python
 - JavaScript
 - SQL
 - C
 
-**Backend**
-- FastAPI
-- Django
-- REST APIs
-- JWT Authentication
+## Frontend
 
-**Frontend**
 - React.js
 - Next.js
 - HTML5
 - CSS3
 
-**Databases**
+## Backend
+
+- FastAPI
+- Django
+- REST APIs
+- JWT Authentication
+
+## Databases
+
 - PostgreSQL
 - MongoDB
 - SQLAlchemy
 
-**Tools**
+## Tools
+
 - Git
 - GitHub
 - Postman
 - VS Code
-- Antigravity
 - Linux
 
-**Core Concepts**
-- OOPs
-- DBMS
+## Core Computer Science
+
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
 - Data Structures & Algorithms
 - Operating Systems
 - Computer Networks
 
 ---
 
-### 💼 Experience
+# 💼 Professional Experience
 
-**Full Stack Developer — OpenTechz Solutions**
-Jun 2025 – Present · Bhubaneswar, India
+## Full Stack Developer
+### OpenTechz Solutions
+**Jun 2025 – Present**
 
-- Worked on Python-based business web applications using React.js, Next.js, FastAPI, Django, PostgreSQL, and MongoDB.
-- Added new API endpoints and updated existing ones based on feature requirements.
-- Handled login, user roles, and data validation in FastAPI and Django.
-- Modified PostgreSQL tables and MongoDB collections as application requirements changed.
-- Used Git, GitHub, and Postman for version control, API testing, and debugging.
+Started as a Python Developer Intern and was converted into a Full Stack Developer based on performance.
 
----
+### Responsibilities
 
-### 🚀 Featured Projects
-
-**Hospital Management System**
-`React.js` · `Next.js` · `Django` · `FastAPI` · `PostgreSQL` · `MongoDB` · `SQLAlchemy` · `JWT`
-
-- Customer and admin modules for patient registration, doctor management, appointments, and billing.
-- Python REST APIs for authentication, CRUD operations, and frontend-backend communication.
-- PostgreSQL for relational data and MongoDB for document-based records.
-- API testing completed with Postman before integration.
-- [GitHub repo](https://github.com/Bikashf/hospital-management-system-fastapi)
-
-**E-Commerce Web Application**
-`React.js` · `Django` · `PostgreSQL` · `MongoDB`
-
-- Features include product catalog, shopping cart, user accounts, and order management.
-- React.js frontend integrated with Django REST APIs for product, customer, and order management.
-- PostgreSQL used for users, orders, and transactions; MongoDB stored product details and search-related data.
-- Pagination, filtering, and search added to simplify product browsing.
+- Developed business web applications using React.js, Next.js, FastAPI, Django, PostgreSQL, and MongoDB.
+- Added and maintained REST API endpoints based on changing business requirements.
+- Implemented authentication and role-based authorization for multiple user roles.
+- Modified PostgreSQL schemas and MongoDB collections as application requirements evolved.
+- Used Git and GitHub for version control.
+- Tested and validated APIs using Postman.
+- Worked collaboratively on feature development and bug fixing.
 
 ---
 
-### 🎓 Education
+# 🚀 Projects
 
-**Master of Computer Applications (MCA)** — Biju Patnaik University of Technology, Odisha · 2023 – 2025 · CGPA 8.11
-**Bachelor of Science (B.Sc)** — Fakir Mohan University, Balasore, Odisha · 2011 – 2014
+## Recruitment & HR Management System
+
+### Tech Stack
+
+React.js • Next.js • Django • FastAPI • PostgreSQL • MongoDB • SQLAlchemy • JWT
+
+### Features
+
+- Candidate Registration
+- Job Posting
+- Application Tracking
+- Interview Scheduling
+- Role-Based Access Control
+- Authentication using JWT
+- REST API Development
+- PostgreSQL & MongoDB Integration
+
+### Highlights
+
+- Built candidate registration, job posting, application tracking, and interview scheduling modules.
+- Developed Python REST APIs for login and application status workflows.
+- Used PostgreSQL for structured application data.
+- Used MongoDB for resumes and unstructured candidate information.
+- Built responsive frontend interfaces using React.js and Next.js.
+- Tested APIs thoroughly using Postman before frontend integration.
 
 ---
 
-### 🏅 Certifications
+## Spend Track
 
-- Python Programming — Udemy, July 2025
-- C Programming — Udemy, July 2025
-- Digital Marketing / SEO — Jan 2022
+### Tech Stack
+
+React.js • Next.js • Django • FastAPI • PostgreSQL • JWT
+
+### Features
+
+- Expense Submission
+- Multi-Level Approval Workflow
+- Approval History
+- Role-Based Dashboards
+- JWT Authentication
+
+### Highlights
+
+- Implemented approval workflows preventing invalid status transitions.
+- Built dashboards for different user roles.
+- Implemented secure JWT authentication and authorization.
+- Prevented unauthorized approvals through role-based permissions.
 
 ---
 
-### 📫 Connect With Me
+# 🎓 Education
 
-- LinkedIn: [linkedin.com/in/bikashf](https://www.linkedin.com/in/bikashf/)
-- GitHub: [github.com/bikashf](https://github.com/bikashf)
-- Portfolio: [bikashf.github.io](https://bikashf.github.io/)
-- Email: bikashkumarbhoi@gmail.com
+## Master of Computer Applications (MCA)
+
+Biju Pattanaik University of Technology, Odisha
+
+**CGPA:** 8.11
+
+2023 – 2025
+
+---
+
+## Bachelor of Science (B.Sc.)
+
+Fakir Mohan University, Balasore, Odisha
+
+2011 – 2014
+
+---
+
+# 📜 Certifications
+
+- Python Programming Certificate (2025)
+- C Programming Certificate (2025)
+- Digital Marketing / SEO Certificate (2022)
+
+---
+
+# 🌍 Languages
+
+- English
+- Hindi
+- Odia
+- Bengali
+
+---
+
+# 📈 Currently Learning
+
+- Advanced FastAPI
+- Next.js Full Stack Development
+- Software Architecture
+- System Design
+- Performance Optimization
+- Cloud Deployment
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: bikashkumarbhoi@gmail.com
+
+📍 Bhubaneswar, Odisha, India
+
+💼 LinkedIn: https://www.linkedin.com/in/bikashkumarbhoi
+
+🌐 Portfolio: https://bikashf.github.io
+
+💻 GitHub: https://github.com/Bikashf
+
+---
+
+## Goals
+
+I enjoy building scalable web applications that solve real-world problems. My focus is on writing clean, maintainable code while continuously improving my knowledge of backend systems, frontend technologies, and software architecture.
+
+I'm currently seeking opportunities to contribute to challenging projects, collaborate with talented teams, and continue growing as a Full Stack Developer.
