@@ -426,6 +426,14 @@
 
   .project-link:hover { color: var(--accent); }
 
+  .project-link-pending {
+    color: var(--text-muted);
+    cursor: default;
+    opacity: 0.65;
+  }
+
+  .project-link-pending:hover { color: var(--text-muted); }
+
   /* Contact */
   #contact { background: var(--surface); border-top: 1px solid var(--border); }
 
@@ -839,12 +847,7 @@
       </ul>
     </nav>
     <div class="nav-right">
-      <a href="/resume.pdf"
-   target="_blank"
-   rel="noopener"
-   class="btn btn-secondary resume-btn">
-   Resume
-</a>
+      <a href="https://drive.google.com/file/d/128DWiWBE_bnJVwHw4_SXBfZ53ih98os1/view" target="_blank" rel="noopener" class="btn btn-secondary resume-btn">Resume</a>
       <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark and light theme">
         <svg id="themeIcon" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
       </button>
@@ -949,15 +952,6 @@
             <span class="skill-tag">Linux</span>
           </div>
 
-          <p class="skills-label">Core Concepts</p>
-          <div class="skill-tags">
-            <span class="skill-tag">OOP</span>
-            <span class="skill-tag">DBMS</span>
-            <span class="skill-tag">Data Structures &amp; Algorithms</span>
-            <span class="skill-tag">Operating Systems</span>
-            <span class="skill-tag">Computer Networks</span>
-          </div>
-
           <p class="spoken-langs">Speaks English, Hindi, Odia, and Bengali.</p>
         </div>
       </div>
@@ -1013,8 +1007,8 @@
             <span class="stack-chip">JWT</span>
           </div>
           <div class="project-links">
-            <a href="#" class="project-link" data-link="recruitment-github"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 0 0-3.16 19.49c.5.09.68-.22.68-.48v-1.7c-2.78.6-3.37-1.34-3.37-1.34-.46-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.89 1.53 2.34 1.09 2.91.83.09-.65.35-1.09.63-1.34-2.22-.25-4.56-1.11-4.56-4.94 0-1.09.39-1.98 1.03-2.68-.1-.25-.45-1.27.1-2.65 0 0 .84-.27 2.75 1.02a9.53 9.53 0 0 1 5 0c1.91-1.29 2.75-1.02 2.75-1.02.55 1.38.2 2.4.1 2.65.64.7 1.03 1.59 1.03 2.68 0 3.84-2.34 4.68-4.57 4.93.36.31.68.92.68 1.85v2.74c0 .27.18.58.69.48A10 10 0 0 0 12 2z"></path></svg> GitHub</a>
-            <a href="#" class="project-link" data-link="recruitment-live"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><path d="M15 3h6v6"></path><path d="M10 14L21 3"></path></svg> Live Demo</a>
+            <a href="https://github.com/bikashf/recruitment-hr-management-system" class="project-link" target="_blank" rel="noopener" data-link="recruitment-github"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 0 0-3.16 19.49c.5.09.68-.22.68-.48v-1.7c-2.78.6-3.37-1.34-3.37-1.34-.46-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.89 1.53 2.34 1.09 2.91.83.09-.65.35-1.09.63-1.34-2.22-.25-4.56-1.11-4.56-4.94 0-1.09.39-1.98 1.03-2.68-.1-.25-.45-1.27.1-2.65 0 0 .84-.27 2.75 1.02a9.53 9.53 0 0 1 5 0c1.91-1.29 2.75-1.02 2.75-1.02.55 1.38.2 2.4.1 2.65.64.7 1.03 1.59 1.03 2.68 0 3.84-2.34 4.68-4.57 4.93.36.31.68.92.68 1.85v2.74c0 .27.18.58.69.48A10 10 0 0 0 12 2z"></path></svg> GitHub</a>
+            <a href="https://recruitment-hr-management-system-v3.vercel.app/" class="project-link" target="_blank" rel="noopener" data-link="recruitment-live"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><path d="M15 3h6v6"></path><path d="M10 14L21 3"></path></svg> Live Demo</a>
           </div>
         </div>
 
@@ -1037,8 +1031,8 @@
             <span class="stack-chip">JWT</span>
           </div>
           <div class="project-links">
-            <a href="#" class="project-link" data-link="spendtrack-github"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 0 0-3.16 19.49c.5.09.68-.22.68-.48v-1.7c-2.78.6-3.37-1.34-3.37-1.34-.46-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.89 1.53 2.34 1.09 2.91.83.09-.65.35-1.09.63-1.34-2.22-.25-4.56-1.11-4.56-4.94 0-1.09.39-1.98 1.03-2.68-.1-.25-.45-1.27.1-2.65 0 0 .84-.27 2.75 1.02a9.53 9.53 0 0 1 5 0c1.91-1.29 2.75-1.02 2.75-1.02.55 1.38.2 2.4.1 2.65.64.7 1.03 1.59 1.03 2.68 0 3.84-2.34 4.68-4.57 4.93.36.31.68.92.68 1.85v2.74c0 .27.18.58.69.48A10 10 0 0 0 12 2z"></path></svg> GitHub</a>
-            <a href="#" class="project-link" data-link="spendtrack-live"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><path d="M15 3h6v6"></path><path d="M10 14L21 3"></path></svg> Live Demo</a>
+            <a href="https://github.com/bikashf/spend-track-expense-approval-system" class="project-link" target="_blank" rel="noopener" data-link="spendtrack-github"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 0 0-3.16 19.49c.5.09.68-.22.68-.48v-1.7c-2.78.6-3.37-1.34-3.37-1.34-.46-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.89 1.53 2.34 1.09 2.91.83.09-.65.35-1.09.63-1.34-2.22-.25-4.56-1.11-4.56-4.94 0-1.09.39-1.98 1.03-2.68-.1-.25-.45-1.27.1-2.65 0 0 .84-.27 2.75 1.02a9.53 9.53 0 0 1 5 0c1.91-1.29 2.75-1.02 2.75-1.02.55 1.38.2 2.4.1 2.65.64.7 1.03 1.59 1.03 2.68 0 3.84-2.34 4.68-4.57 4.93.36.31.68.92.68 1.85v2.74c0 .27.18.58.69.48A10 10 0 0 0 12 2z"></path></svg> GitHub</a>
+            <a href="https://spendtrack-frontend.onrender.com/" class="project-link" target="_blank" rel="noopener" data-link="spendtrack-live"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><path d="M15 3h6v6"></path><path d="M10 14L21 3"></path></svg> Live Demo</a>
           </div>
         </div>
 
@@ -1078,19 +1072,19 @@
           <div class="cert-icon"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15a4 4 0 1 0 0-8 4 4 0 0 0 0 8z"></path><path d="M8.21 13.89L7 23l5-3 5 3-1.21-9.12"></path></svg></div>
           <p class="cert-title">Python Programming</p>
           <p class="cert-issuer">Udemy &nbsp;&bull;&nbsp; Jul 2025</p>
-          <a href="#" class="cert-link" target="_blank" rel="noopener">View Certificate &rarr;</a>
+          <a href="https://www.udemy.com/certificate/UC-2fa12788-5a9f-4534-b753-a8cd38332c22/" class="cert-link" target="_blank" rel="noopener">View Certificate &rarr;</a>
         </div>
         <div class="cert-card">
           <div class="cert-icon"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15a4 4 0 1 0 0-8 4 4 0 0 0 0 8z"></path><path d="M8.21 13.89L7 23l5-3 5 3-1.21-9.12"></path></svg></div>
           <p class="cert-title">C Programming</p>
           <p class="cert-issuer">Udemy &nbsp;&bull;&nbsp; Jul 2025</p>
-          <a href="#" class="cert-link" target="_blank" rel="noopener">View Certificate &rarr;</a>
+          <a href="https://www.udemy.com/certificate/UC-885e8285-357e-43ec-b9a9-d85c18f9c783/" class="cert-link" target="_blank" rel="noopener">View Certificate &rarr;</a>
         </div>
         <div class="cert-card">
           <div class="cert-icon"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15a4 4 0 1 0 0-8 4 4 0 0 0 0 8z"></path><path d="M8.21 13.89L7 23l5-3 5 3-1.21-9.12"></path></svg></div>
           <p class="cert-title">Digital Marketing / SEO</p>
           <p class="cert-issuer">Jan 2022</p>
-          <a href="#" class="cert-link" target="_blank" rel="noopener">View Certificate &rarr;</a>
+          <a href="https://drive.google.com/file/d/14ndeFSZuphKh9xI4TsU3qC0hjMvlRMID/view?usp=drive_link" class="cert-link" target="_blank" rel="noopener">View Certificate &rarr;</a>
         </div>
       </div>
     </div>
