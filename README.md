@@ -2,7 +2,7 @@
 
 ## Python Full Stack Developer | MCA Graduate
 
-I'm a Full Stack Developer at **OpenTechz Solutions**, where I build modern business web applications using Python and JavaScript technologies. I work across the full development lifecycle—from database design and backend APIs to responsive frontend interfaces.
+I'm a Full Stack Developer at **OpenTechz**, where I build modern business web applications using Python and JavaScript technologies. I work across the full development lifecycle—from database design and backend APIs to responsive frontend interfaces.
 
 I transitioned into software development after gaining professional experience in MIS and Business Development, bringing strong analytical thinking and problem-solving skills into software engineering.
 
@@ -10,7 +10,7 @@ I transitioned into software development after gaining professional experience i
 
 ## 👨‍💻 About Me
 
-- 💼 Full Stack Developer at OpenTechz Solutions
+- 💼 Full Stack Developer at OpenTechz
 - 🎓 Master of Computer Applications (MCA)
 - 📍 Bhubaneswar, Odisha, India
 - 🌱 Passionate about Backend Development, Full Stack Web Development, and Clean Software Architecture
@@ -69,7 +69,7 @@ I transitioned into software development after gaining professional experience i
 # 💼 Professional Experience
 
 ## Full Stack Developer
-### OpenTechz Solutions
+### OpenTechz
 **Jun 2025 – Present**
 
 Started as a Python Developer Intern and was converted into a Full Stack Developer based on performance.
