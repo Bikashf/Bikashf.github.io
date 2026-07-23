@@ -145,7 +145,7 @@ React.js • Next.js • Django • FastAPI • PostgreSQL • JWT
 
 Biju Pattanaik University of Technology, Odisha
 
-**CGPA:** 8.11
+**CGPA:** 8.03
 
 2023 – 2025
 
